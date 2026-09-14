@@ -3,7 +3,7 @@
 ## Datos del estudiante
 
 - Nombre: Richard Arturo Tirira Díaz
-- Carrera: Tecnología de la Información
+- Carrera: Tecnologías de la Información
 - Asignatura: Programación Orientada a Objetos
 - Semana: 13
 
