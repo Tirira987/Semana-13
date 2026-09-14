@@ -9,11 +9,11 @@
 
 ## Descripción
 
-Aplicación de restaurante desarrollada en Python utilizando programación
-orientada a objetos y Tkinter para implementar una interfaz gráfica.
-
-En esta etapa se implementa un sistema básico de inicio de sesión y una
-ventana principal para consultar productos y usuarios.
+Esta nueva base del proyecto Restaurante App tiene como objetivo
+incorporar una interfaz gráfica de usuario utilizando Tkinter.
+En esta etapa se implementa el inicio de sesión y la visualización
+de productos y usuarios, manteniendo una separación entre modelos,
+servicios e interfaz gráfica.
 
 ## Estructura
 
